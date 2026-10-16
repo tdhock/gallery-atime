@@ -1,3 +1,4 @@
+tdhock/2026-10-16-ponca-git-bisect-asoCurvatureEstimation
 tdhock/2026-10-15-bisect-performance-pr7907
 tdhock/2026-10-13-bisect-performance-pr7912-log10-lim0.01sec
 tdhock/2026-10-13-bisect-performance-pr7912
